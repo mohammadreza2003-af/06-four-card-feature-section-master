@@ -1,0 +1,22 @@
+@media (max-width: 375px) {
+  .boxs {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+    justify-content: center;
+    align-items: center;
+  }
+  .for-f {
+    display: flex;
+    flex-direction: column;
+  }
+  .text-box {
+    text-align: center;
+    font-size: 9px;
+  }
+  .text-dis {
+    /* font-size: 2; */
+    font-size: 10px;
+    padding: 0 96px;
+  }
+}
